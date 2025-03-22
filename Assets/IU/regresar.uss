@@ -1,0 +1,15 @@
+.regresar {
+}
+
+.boton {
+    border-left-color: rgba(160, 250, 122, 0);
+    border-right-color: rgba(160, 250, 122, 0);
+    border-top-color: rgba(160, 250, 122, 0);
+    border-bottom-color: rgba(160, 250, 122, 0);
+}
+
+.boton:hover {
+    transition-duration: 0.3s;
+    scale: 1.15 1.15;
+    transition-timing-function: ease-in-out;
+}
