@@ -298,7 +298,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -312,7 +312,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -2322,7 +2322,95 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      personaje_0: 8778386249900385398
+      personaje_1: -5415567900095415518
+      personaje_10: -5669405323651632485
+      personaje_11: 5660429689113642701
+      personaje_12: -7886955550143506323
+      personaje_13: -5840949327509877221
+      personaje_14: -1376493497707675386
+      personaje_15: 654141082671533086
+      personaje_16: -4869421790860956900
+      personaje_17: 8106616488882840603
+      personaje_18: 7178178887136969976
+      personaje_19: 1107551694098412780
+      personaje_2: 8695435578320395834
+      personaje_20: 8008977726062806645
+      personaje_21: -8393323704339284334
+      personaje_22: -6210549298353261958
+      personaje_23: -6075663504287512536
+      personaje_24: 8928804197269053588
+      personaje_25: 2910698026585073425
+      personaje_26: -4551670855199139953
+      personaje_27: 141823005643320414
+      personaje_28: 743330809922545417
+      personaje_29: -8615162767713414667
+      personaje_3: -4536776124688858940
+      personaje_30: 9090956486926145806
+      personaje_31: 8008447288538416069
+      personaje_32: -1687180729741628263
+      personaje_33: -356297822969890615
+      personaje_34: -1364766635931492230
+      personaje_35: -5457621496982540973
+      personaje_36: 7989503462944878587
+      personaje_37: 4559139498011009766
+      personaje_38: -2762533337822493061
+      personaje_39: -5640156534388865581
+      personaje_4: -1064255096307472139
+      personaje_40: -9002189361519180129
+      personaje_41: -2127039896833612937
+      personaje_42: 3117091866982108862
+      personaje_43: -1393476530415616151
+      personaje_44: -5646183246676068759
+      personaje_45: -385991846827607240
+      personaje_46: -3498019656396608437
+      personaje_47: -9037013226436282862
+      personaje_48: 5796455285685866744
+      personaje_49: -4532891265272960706
+      personaje_5: -800414246181143438
+      personaje_50: -405310297349416858
+      personaje_51: 2111441168773968377
+      personaje_52: -5939402721406035478
+      personaje_53: -1680915874717298860
+      personaje_54: 6894883144248684789
+      personaje_55: -5902800178680322088
+      personaje_56: 7404534739652292455
+      personaje_57: -2469637234852465695
+      personaje_58: -5340401797589046887
+      personaje_59: 7304185089859912277
+      personaje_6: -3965268385570505424
+      personaje_60: 386368545490762313
+      personaje_61: 8328075419148865040
+      personaje_62: 2331321759670247643
+      personaje_63: 2335084975191853251
+      personaje_64: -4901757851606910327
+      personaje_65: 441072834241733676
+      personaje_66: 1552300387236010572
+      personaje_67: 1321085152392543870
+      personaje_68: -5511653033450060271
+      personaje_69: -3171420821906286139
+      personaje_7: -3779356466112795704
+      personaje_70: -5073013097718618298
+      personaje_71: -519252273743697100
+      personaje_72: -6998952729294813036
+      personaje_73: 4703137249365656117
+      personaje_74: 2287689155924934859
+      personaje_75: 6459970357168588466
+      personaje_76: 5169086787320502379
+      personaje_77: 4578843709914598603
+      personaje_78: 6653847266746889590
+      personaje_79: -447674785839361997
+      personaje_8: -3857273594836991835
+      personaje_80: 6999136225668640825
+      personaje_81: -175001971007606116
+      personaje_82: -204984198603338395
+      personaje_83: -2429452992654452998
+      personaje_84: 8572939871108974203
+      personaje_85: -2792257509398890745
+      personaje_86: 1752346605677693271
+      personaje_87: -8951698706194289322
+      personaje_9: 3784073141406135343
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
