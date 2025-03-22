@@ -47,3 +47,4 @@ public class MuevePersonaje : MonoBehaviour
         rb.linearVelocity = new Vector2(movHorizontal * velocidadX, rb.linearVelocity.y);
     }
 }
+
