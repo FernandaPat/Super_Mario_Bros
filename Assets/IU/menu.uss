@@ -1,0 +1,85 @@
+.menu {
+}
+
+.botones {
+    justify-content: space-between;
+    height: 60%;
+    align-self: center;
+    align-items: stretch;
+    margin-top: 100px;
+    -unity-text-align: upper-center;
+    background-image: none;
+    background-color: rgba(0, 0, 0, 0.24);
+    width: 65%;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+.boton-juego {
+    background-image: url("project://database/Assets/Saurabh_Studio/UI%20button%20and%20hallowing%20element%20pack%205/Button%206/7.png?fileID=2800000&guid=d3dd507249881854fbaa9d44a29f0d89&type=3#7");
+    border-left-color: rgba(17, 15, 15, 0);
+    border-right-color: rgba(17, 15, 15, 0);
+    border-top-color: rgba(17, 15, 15, 0);
+    border-bottom-color: rgba(17, 15, 15, 0);
+    width: 350px;
+    height: 200px;
+    font-size: 35px;
+    -unity-text-align: middle-center;
+    -unity-background-image-tint-color: rgb(255, 255, 255);
+    background-color: rgba(123, 149, 245, 0);
+    color: rgb(245, 244, 244);
+    -unity-font-style: bold;
+    align-self: center;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+
+.titulo {
+    align-self: center;
+    margin-top: 100px;
+    font-size: 50px;
+    -unity-font-style: bold;
+    color: rgb(245, 242, 242);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    -unity-text-align: upper-center;
+}
+
+.abajo {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    white-space: normal;
+    margin-right: 100px;
+    margin-left: 100px;
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.texto {
+    font-size: 35px;
+    color: rgb(255, 242, 242);
+    -unity-font-style: italic;
+}
+
+.boton-juego:hover {
+    scale: 1.15 1.15;
+    transition-duration: 0.3s;
+    transition-timing-function: ease-in-out;
+}
+
+.salir {
+    width: 100px;
+    height: 100px;
+    background-image: url("project://database/Assets/Saurabh_Studio/UI%20button%20and%20hallowing%20element%20pack%205/white%20icon/close.png?fileID=2800000&guid=7ed175332bcd6bb4e9f2b8e2833d8c29&type=3#close");
+    border-left-color: rgba(250, 247, 247, 0);
+    border-right-color: rgba(250, 247, 247, 0);
+    border-top-color: rgba(250, 247, 247, 0);
+    border-bottom-color: rgba(250, 247, 247, 0);
+}

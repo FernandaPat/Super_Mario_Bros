@@ -1,0 +1,15 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/IU/menu.uss?fileID=7433441132597879392&amp;guid=4c69887f6e21b6a46aa9bf09286500f0&amp;type=3#menu" />
+    <engine:VisualElement name="Menu" class="menu" style="flex-grow: 1; width: 100%; height: 100%; background-color: rgba(5, 5, 5, 0);">
+        <engine:Label text="Tarea Unity" name="Label" class="titulo" style="font-size: 80px; margin-top: 100px; border-left-color: rgba(100, 100, 100, 0); border-right-color: rgba(100, 100, 100, 0); border-top-color: rgba(100, 100, 100, 0); border-bottom-color: rgba(100, 100, 100, 0); background-color: rgba(0, 0, 0, 0.24); width: 90%; height: 10%; border-top-left-radius: 20px; border-top-right-radius: 20px; border-bottom-right-radius: 20px; border-bottom-left-radius: 20px;" />
+        <engine:VisualElement name="Botones" class="botones" style="flex-grow: 1;">
+            <engine:Button text="Jugar" name="Jugar" class="boton-juego" />
+            <engine:Button text="Ayuda&#10;" name="Ayuda" class="boton-juego" />
+            <engine:Button text="Créditos" name="Creditos" selectable="true" class="boton-juego" />
+        </engine:VisualElement>
+        <engine:VisualElement class="abajo" style="flex-grow: 1; align-content: center;">
+            <engine:Button name="Button" class="salir" style="background-image: url(&quot;project://database/Assets/Saurabh_Studio/UI%20button%20and%20hallowing%20element%20pack%205/white%20icon/close.png?fileID=2800000&amp;guid=7ed175332bcd6bb4e9f2b8e2833d8c29&amp;type=3#close&quot;); -unity-background-image-tint-color: rgb(56, 56, 56); background-color: rgba(188, 188, 188, 0);" />
+            <engine:Label text="María Fernanda Pineda Pat (A01752828)" name="Label" selectable="false" class="texto" />
+        </engine:VisualElement>
+    </engine:VisualElement>
+</engine:UXML>
