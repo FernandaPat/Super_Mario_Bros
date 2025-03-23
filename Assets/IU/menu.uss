@@ -83,3 +83,18 @@
     border-top-color: rgba(250, 247, 247, 0);
     border-bottom-color: rgba(250, 247, 247, 0);
 }
+
+.boton-juego:active {
+}
+
+.boton-abandonar {
+}
+
+.boton-abandonar:hover {
+    transition-timing-function: ease-in-out;
+    transition-duration: 0.3s;
+    scale: 1.15 1.15;
+}
+
+.boton-abandonar:active {
+}

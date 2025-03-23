@@ -13,3 +13,6 @@
     scale: 1.15 1.15;
     transition-timing-function: ease-in-out;
 }
+
+.boton:active {
+}
