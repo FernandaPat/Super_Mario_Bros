@@ -4,7 +4,9 @@ Autor: María Fernanda Pineda Pat
 Matrícula: A01752828
 Este código controla el movimiento del personaje; para que se mueva hosrizontalmente y hacia arriba.
 Tambien acualiza las animaciones dependiendo de la velocidad y si esta en el aire o no, gira el sprite 
-dependiendo de la direccion del personaje*/
+dependiendo de la direccion del personaje
+Fecha: 21 de marzo de 2025*/
+
 public class MuevePersonaje : MonoBehaviour
 {
     public float velocidadX;

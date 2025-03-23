@@ -2,6 +2,14 @@ using System.Runtime.CompilerServices;
 using UnityEngine;
 using UnityEngine.UIElements;
 
+/*
+Autor: María Fernanda Pineda Pat 
+Matrícula: A01752828
+Este codigo conecta los 4 botones de la interfaz para que cuando haga click en el boton cargue 
+a las escenas correspondientes; de igual manera se cierra el juego con la funcion Application.Quit() 
+cuando se presiona el boton de salir
+Fecha: 22 de marzo de 2025
+*/
 public class MenuController : MonoBehaviour
 {
     UIDocument menu;

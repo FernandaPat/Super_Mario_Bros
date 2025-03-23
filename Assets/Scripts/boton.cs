@@ -1,6 +1,13 @@
 using UnityEngine;
 using UnityEngine.UIElements;
 
+/*
+Autor: María Fernanda Pineda Pat 
+Matrícula: A01752828
+Este codigo hace que al presionar el boton de la equis o el de regresar en la interfaz hecha con UI Toolkit,
+se vaya al menun principal
+Fecha: 22 de marzo de 2025
+*/
 public class boton : MonoBehaviour
 {
     UIDocument botonr;
@@ -17,16 +24,5 @@ public class boton : MonoBehaviour
     }
     void IniciarSalir(ClickEvent evt){
         UnityEngine.SceneManagement.SceneManager.LoadScene("PaginaPrincipal");
-    }
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
     }
 }
